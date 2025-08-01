@@ -41,4 +41,4 @@ All major icons and logos have been used in the prototype to ensure seamless tra
 How the application works:
 The redesigned movie booking app offers a smooth and engaging user experience from start to finish. Upon opening the app, users can scroll horizontally through categorized sections like "Now Playing," "Coming Soon," and "Top Movies," while also scrolling vertically to explore more such sections. After selecting a movie, users choose their preferred theater, followed by a single screen where they can pick the date and time of the show. The next step is seat selection, where available seats are clearly visible and easy to select. Users can view their chosen seat numbers and proceed by tapping the “Buy” button. Once booked, the app displays a visually designed ticket, and users can even choose from three unique ticket styles themed around popular movie characters. The app also includes consistent back navigation and smooth screen transitions through interactive prototyping elements like logos and icons.
 
-*OUTPUT*:
+*OUTPUT*:<img width="5658" height="2736" alt="Image" src="https://github.com/user-attachments/assets/b2c9d553-106d-4aa9-9780-380c758de178" />
